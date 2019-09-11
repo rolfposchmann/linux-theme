@@ -13,7 +13,7 @@ chmod u+x install_theme.sh
 ### Für konky:
 Startprogramme -> +
 
-BILD
+![startup](startup.png)
 
 * Name: conkyautostart
 * Befehl: sh $HOME/Scripts/conkystart.sh
